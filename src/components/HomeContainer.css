@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+=======
+/* .main-box{
+    background-image: url("../img/slide-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+     background-size: cover;
+  background-attachment: fixed;
+  top: -100px;
+    color: white;
+    padding: 0px !important;
+}
+.main-box-logo{
+    margin: auto;
+    width:50%;
+    position: relative;
+    top: 0%;
+    left: 0%;
+} */
+>>>>>>> acad08f4703c5243e4949011c646f3725f66b566
 .responsive-header-slider ul{
 display: none;
 }
