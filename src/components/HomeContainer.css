@@ -1,21 +1,30 @@
-.main-box{
-    margin-top: 60px;
+/* .main-box{
+    background-image: url("../img/slide-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
     width: 100%;
-    height: 550px;
+    height: 100vh;
+     background-size: cover;
+  background-attachment: fixed;
+  top: -100px;
     color: white;
-    background-color: black;
+    padding: 0px !important;
 }
 .main-box-logo{
     margin: auto;
     width:50%;
-    opacity: 1;
-}
+    position: relative;
+    top: 0%;
+    left: 0%;
+} */
 .responsive-header-slider ul{
 display: none;
 }
 .responsive-header-slider .carousel-status{
     display: none;
 }
+
 .slides{
     position: relative;
     top: 60px;
