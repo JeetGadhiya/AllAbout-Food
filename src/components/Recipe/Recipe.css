@@ -1,7 +1,9 @@
 .main_container {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 100%;
     background-color: #ffffff;
+    border: none;
+    border-radius: 3px;
 }
 
 .sub_container {

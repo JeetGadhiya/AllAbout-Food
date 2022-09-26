@@ -4,6 +4,7 @@ import Popup from "./Popup";
 import { useState } from "react";
 import { BsFillClockFill } from "react-icons/bs";
 import { GiForkKnifeSpoon } from "react-icons/gi";
+import {Recipes} from "./Data";
 
 function Recipe() {
   const [buttonPopup, setButtonPopup] = useState(false);
@@ -57,7 +58,7 @@ function Recipe() {
               To prepare the batter for Masala Dosa, wash and soak the rice (with fenugreek added into it) and urad dal in separate containers for approximately 6-8 hours. 
               Once the rice and urad dal are soaked well, grind them separately in a mixer using the water in which they were soaked, till the mixture reaches a smooth consistency. 
               Mix the batter of both the ingredients in a bigger container and add salt to it. Combine well and allow it to ferment overnight."
-                make2="2.   Prepare the potato filling for Masala Dosa.
+                make2="2. Prepare the potato filling for Masala Dosa.
               To prepare the filling of the dosa, heat 2 tbsp oil in a thick-bottomed pan and let the mustard seeds splutter. 
               Then, add sliced onions, curry leaves, green chillies and saute them till the onions turn pink. 
               Then, add a pinch of salt, turmeric powder and mix them well. Now, take the cubed potatoes and add them to the sauteed onions and mix them together. 
