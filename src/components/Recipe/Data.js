@@ -75,14 +75,28 @@ export const Recipes = [
 
     {
         ptime: "10m",
-        ctime: "10m",
-        ttime: "20m",
+        ctime: "35m",
+        ttime: "45m",
         serve: "2",
-        ing: "1 cup Idli Dosa Batter , 1 cup idli dosa batter, 1/4 cup Onion finely chopped, 1/4 cup Green Bell Pepper (Capsicum) finely chopped, 1/4 cup Carrot (Gajjar) finely chopped, 1 Tomato, 1 tomato finely chopped and deseeded, 2 Green Chillies finely chopped, 2 tablespoons Coriander(Dhania) Leaves finely chopped, Oil, for greasing",
-        htm: "How to make Uttpam:",
-        make1: "1. To begin the preparation of Vegetable Uttapam, take the dosa batter in a bowl. Add water if required to get the desired consistency. Finely chop all the vegetables and keep aside. ",
-        make2:  "2. Heat a non-stick tawa.  Grease it with oil. When the tawa becomes hot, pour one ladleful of batter and spread it in circular motion.Don't make it too thin. You will find small holes appearing on the surface, add the chopped vegetables. Drizzle oil around the edges and at the center. Reduce the flame to medium.Cover and cook on medium flame for a few seconds. ",
-        make3: "3. By this time the veggies would have cooked.  Gently press it with the back of a spatula. Flip the utpam to the other side and cook on medium flame for 2 - 3 minutes. Transfer the utpam to a serving plate. Serve the Vegetable Uttapam with coconut chutney and sambar "
+        ing: "3 cups Whole Wheat Flour , and some extra flour for dusting, 1 tablespoons Extra Virgin Olive Oil , and extra as needed, 2 teaspoons Active dry yeast, 1 teaspoon Sugar, 1 teaspoon Salt, Lukewarm Water, 150 grams Paneer (Homemade Cottage Cheese) , cut into small cubes, 2 Coal pieces for coal smoking method, 1/2 cup Mozzarella cheese grated, 1/4 cup Hung Curd (Greek Yogurt), 1 sprig Mint Leaves (Pudina) finely chopped, 3 cloves Garlic finely chopped, 1 inch Ginger grated, 1/4 cup Homemade tomato puree, 1 teaspoon Fennel seeds (Saunf) roasted, 1/2 teaspoon Ajwain (Carom seeds), 1 Saffron strands few strands, 1/4 teaspoon Black Salt (Kala Namak), Salt to taste",
+        htm: "How to make Tandoori Paneer Pizza:",
+        make1: "1. To begin making the Tandoori Paneer Tikka Skillet Pizza Recipe, we will first make the pizza dough as it takes a couple of hours to rise. In a large mixing bowl, combine the flour, yeast, salt, sugar. Add lukewarm water and knead to make a soft smooth dough. Add olive oil on the top and knead the pizza dough for about 5 minutes until the pizza dough is soft. Once done, cover the dough and keep it aside for about 2 hours until the dough has almost doubled in size. ",
+        make2: "2. Once done, cover the dough and keep it aside for about 2 hours until the dough has almost doubled in size. In the meanwhile we will prepare the paneer tikka masala topping for the pizza. In a bowl, combine the cream and chopped mint leaves. Pound the fennel seeds and ajwain and add it to the yogurt . Add in the remaining tikka masala ingredients into the cream mixture and stir to combine well. Place the paneer cubes in a large bowl, add in the marinade and allow it to rest covered for about half an hour to one hour or even overnight to get maximum flavour. After the paneer is marinated we will cook the paneer. ",
+        make3: "3. Make a paste of the ginger and garlic using a pestle and mortar. Heat oil in a heavy bottomed pan; add the pounded ginger, garlic and saute for a few seconds. Add the tomato puree, paneer along with the marinade and give it a good stir to combine all the ingredients. Check the salt and spices and adjust to suit your taste. Cover the pan and allow the Paneer Tikka Masala to simmer for about 3 to 4 and turn off the heat. While simmering, we can prepare the coal for the coal smoking method. Take a piece or two of coal (about 3 inches big) and hold it over a gas flame with the help of tongs. The coal will begin to turn red hot and also grey in about 5 minutes. ",
+        make4: "4. Preheat a skillet or a iron tawa on medium heat. Divide the pizza dough into 4 portions. Dust the pizza dough on flour and roll to make a 5 inch circle or the thickness you like for the pizza crust. Place the rolled dough on the tawa and cook it like a roti on both sides. Spread a little oil on the top of the dough and flip to make it face the bottom. Next spread the paneer tikka topping on the pizza and spread it evenly. Finally drizzle the mozzarella cheese. Cover the pan and allow the cheese to melt and also wait for the crust to get a slightly crisp from the sides. This will take about 4 to 5 minutes. Once done, remove the Tandoori Paneer Tikka Skillet Pizza from the skillet and serve. Proceed the same way with the remaining pizza dough and serve immediately."
+    },
+
+    {
+        ptime: "10m",
+        ctime: "45m",
+        ttime: "55m",
+        serve: "6",
+        ing: "1 3/4 cup/220 g all purpose flour, 3/4 cup/90 g cocoa powder, 2 cups/400 g granulated sugar, 1 1/2 tsp baking powder, 1 1/2 tsp baking soda, 1 tsp salt, 2 eggs large, 1 cup/250 ml whole milk, 1/2 cup/125 ml vegetable oil, 2 tsp vanilla, 2 1/2 cups/300 g cranberries fresh or frozen, 1/2 cup/ 100 g granulated sugar, 2 tbsp water, 4 tbsp Port, 16 oz/500g good quality dark chocolate chopped, 2 cups + 2 tbsp/500ml heavy cream/double cream",
+        htm: "How to make Belgian Chocolate Cranberry Cake:",
+        make1: "1. Preheat your oven to 350 F/180 C, butter and line 20cm cake pans with parchment paper or spray with a cake release spray.  Mix together flour, sugar, cocoa, baking powder, baking soda and salt in a large bowl until combined. In a separate bowl mix eggs, milk, oil and vanilla. Add the wet ingredients to the dry ones and beat with an electric mixer until well incorporated. ",
+        make2: "2. Divide evenly among 3 pans and bake in the preheated oven for 25 minutes until a toothpick comes out clean. Bake 2 layers together and then the third one later if your oven isn't big enough to fit three cake pans. Cool in the pans for 10 minutes, then remove cakes from the pans and cool completely on a wire rack. ",
+        make3: "3. In a small saucepan combine the cranberries, sugar, water and port and cook on low heat until the mixture thickens and coats a spoon for about 10 minutes. Cool slightly and process in a food processor or blender until smooth. Set aside until needed. Alternatively, you can leave the cranberry compote chunky if you wish. ",
+        make4: "4. Heat the heavy cream in a small saucepan but take it off the heat right before it boils and pour over chopped dark chocolate. Let it sit for 1-2 minutes then stir with a whisk until well blended. Let the ganache cool, then whip with an electric mixer until it's the consistency of a buttercream and paler in colour. Pipe a border of the whipped ganache around each cake layer and fill with the cranberry compote as shown in photos, stack on top of each other and cover the top and the sides with a thin layer of the whipped ganache. Let it chill for 15 minutes. Then cover with more ganache or pipe rosettes all over and decorate with sugared cranberries. Store the assembled cake in the refrigerator but take it out 30 minutes before serving to allow the cake and the ganache come to a room temperature for fuller flavour and desired consistency. "
     },
 
     {
@@ -90,11 +104,11 @@ export const Recipes = [
         ctime: "10m",
         ttime: "20m",
         serve: "2",
-        ing: "1 cup Idli Dosa Batter , 1 cup idli dosa batter, 1/4 cup Onion finely chopped, 1/4 cup Green Bell Pepper (Capsicum) finely chopped, 1/4 cup Carrot (Gajjar) finely chopped, 1 Tomato, 1 tomato finely chopped and deseeded, 2 Green Chillies finely chopped, 2 tablespoons Coriander(Dhania) Leaves finely chopped, Oil, for greasing",
-        htm: "How to make Uttpam:",
-        make1: "1. To begin the preparation of Vegetable Uttapam, take the dosa batter in a bowl. Add water if required to get the desired consistency. Finely chop all the vegetables and keep aside. ",
-        make2:  "2. Heat a non-stick tawa.  Grease it with oil. When the tawa becomes hot, pour one ladleful of batter and spread it in circular motion.Don't make it too thin. You will find small holes appearing on the surface, add the chopped vegetables. Drizzle oil around the edges and at the center. Reduce the flame to medium.Cover and cook on medium flame for a few seconds. ",
-        make3: "3. By this time the veggies would have cooked.  Gently press it with the back of a spatula. Flip the utpam to the other side and cook on medium flame for 2 - 3 minutes. Transfer the utpam to a serving plate. Serve the Vegetable Uttapam with coconut chutney and sambar "
+        ing: "5 Eggs, 75ml Water, 1 tablespoon Butter, 200gm gratted Chocolate, 1 1/2 cup Whipped cream",
+        htm: "How to make Classic Chocolate Mouse:",
+        make1: "1. Put the chocolate, butter and 75ml warm water (see tip, below) in a heatproof bowl set over a pan of barely simmering water. Push the chocolate and butter gently into the warm water with a wooden spoon to help it melt, but avoid stirring too much. Once three-quarters of the butter and chocolate is melted, remove the bowl from the heat. Stir until melted, smooth and glossy. Set aside until lukewarm. ",
+        make2: "2. Working quickly, use a spatula to stir the egg yolks into the chocolate mixture, one at a time. In a separate bowl, use an electric whisk to whip the egg whites to soft peaks, then gradually add the sugar, whisking, until stiff peaks form. ",
+        make3: "3. Gently fold about a fifth of the egg whites into the chocolate mixture, then fold in the rest, being careful not to knock out the air bubbles. Pour into wine or dessert glasses, cover with clingfilm and chill overnight to set. When ready to serve, whip the cream (if using) to soft peaks. Top each glass with a spoonful of cream and decorate with chocolate shards, if you like. "
     },
 
 ]
