@@ -1,5 +1,6 @@
 export const Recipes = [
     {
+        item: "Masala Dosa",
         ptime: "20m",
         ctime: "10m",
         ttime: "30m",
@@ -13,6 +14,7 @@ export const Recipes = [
     },
 
     {
+        item: "Uttapam",
         ptime: "10m",
         ctime: "10m",
         ttime: "20m",
@@ -25,6 +27,7 @@ export const Recipes = [
     },
 
     {
+        item: "Medu Vada",
         ptime: "15m",
         ctime: "20m",
         ttime: "35m",
@@ -38,6 +41,7 @@ export const Recipes = [
     },
 
     {
+        item: "Veg Kohlapuri",
         ptime: "15m",
         ctime: "30m",
         ttime: "45m",
@@ -50,6 +54,7 @@ export const Recipes = [
     },
 
     {
+        item: "Paneer Butter Masala",
         ptime: "15m",
         ctime: "20m",
         ttime: "30m",
@@ -62,6 +67,7 @@ export const Recipes = [
     },
 
     {
+        item: "White Sauce Pasta",
         ptime: "10m",
         ctime: "20m",
         ttime: "30m",
@@ -74,6 +80,7 @@ export const Recipes = [
     },
 
     {
+        item: "Tandoori Paneer Pizza",
         ptime: "10m",
         ctime: "35m",
         ttime: "45m",
@@ -87,6 +94,7 @@ export const Recipes = [
     },
 
     {
+        item: "Belgian Chocolate Cranberry Cake",
         ptime: "10m",
         ctime: "45m",
         ttime: "55m",
@@ -100,6 +108,7 @@ export const Recipes = [
     },
 
     {
+        item: "Classic Chocolate Mouse",
         ptime: "10m",
         ctime: "10m",
         ttime: "20m",
